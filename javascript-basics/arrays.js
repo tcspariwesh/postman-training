@@ -1,15 +1,25 @@
 
 
+function reduce() {
+    const numbers = [1,11, 2, 3, 4, 5];
+    const sum  = numbers.reduce(function(accumulator, currentValue) {
+        console.log(accumulator, currentValue);
+        return accumulator + currentValue;
+    }   , 0);
+    console.log(numbers);
+}
+reduce();
+
 function sorting() {
     const numbers = [1, 2, 3, 11, 4, 5];
     numbers.sort();//treats elements as strings
     numbers.sort(function(a, b) {//comparator function
-        console.log(a, b);
-        return a - b;
+        // console.log(a, b);
+        return b - a;
     });
     console.log(numbers);
 }
-sorting();
+// sorting();
 
 
 function example1() {
