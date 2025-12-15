@@ -1,5 +1,5 @@
 let a = 1; //number
-a = 'hello'; 
+a = 'hello';
 // a = true;
 console.log(typeof a); // number
 
@@ -30,6 +30,16 @@ const numbers = [1, 2, 3, 4, 5]; //array of numbers
 // }
 let index = 0;
 while (index < numbers.length) {
-    console.log(numbers[index]);
+    const num = numbers[index];
+    if ( num % 2 == 0) {
+        console.log(num);
+    }
     index++;
+}
+//conditionals
+const age = 20;
+if (age >= 18) {
+    console.log('Adult');
+} else {
+    console.log('Minor');
 }
