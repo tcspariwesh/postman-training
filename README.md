@@ -4,7 +4,9 @@ newman commands
 ----------------
 install git client
 install nodejs
+
 open new Git bash CLI
+
 npm i –g newman
 script_folder>> newman run <script_file_name>
 
