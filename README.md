@@ -1,4 +1,12 @@
 # postman-training
+22-Dec
+-------
+https://www.jenkins.io/download/thank-you-downloading-windows-installer-stable
+
+{
+    "item":"iPhone 17 Pro",
+    "price": 4000
+}
 
 newman commands
 ----------------
