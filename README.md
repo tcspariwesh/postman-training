@@ -1,6 +1,8 @@
 # postman-training
 23-Dec
 -------
+C:\Users\<your-vm-user-id>\AppData\Roaming\npm\newman.cmd run Day2.postman_collection.json
+
 https://drive.google.com/file/d/1vqyrl-9bf0yo2ZhjxhET98ahEKGUDGiB/view?usp=drive_link
 22-Dec
 -------
