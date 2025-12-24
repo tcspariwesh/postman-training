@@ -1,6 +1,8 @@
 # postman-training
 24-Dec
 ------
+https://eternallybored.org/misc/wget/releases/wget-1.21.4-win64.zip
+
 https://userauth.dotcom-monitor.com/Account/LoadView-FreeTrialSignUp
 23-Dec
 -------
