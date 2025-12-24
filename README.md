@@ -1,4 +1,7 @@
 # postman-training
+24-Dec
+------
+https://userauth.dotcom-monitor.com/Account/LoadView-FreeTrialSignUp
 23-Dec
 -------
 C:\Users\<your-vm-user-id>\AppData\Roaming\npm\newman.cmd run Day2.postman_collection.json
