@@ -1,4 +1,8 @@
 # postman-training
+29-Dec
+-------
+jmeter -n -l result.jtl -o report -e -t JMeterRequests.jmx
+
 24-Dec
 ------
 https://eternallybored.org/misc/wget/releases/wget-1.21.4-win64.zip
