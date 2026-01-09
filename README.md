@@ -1,4 +1,11 @@
 # postman-training
+9-Jan
+------
+const colors = ["red", "yellow", "blue"];
+colors[5] = "purple";
+colors.forEach((item, index) => {
+  console.log(`${index}: ${item}`);
+});
 6-Jan
 -----
 https://petstore.swagger.io/v2/swagger.json
