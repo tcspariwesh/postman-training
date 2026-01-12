@@ -1,4 +1,13 @@
 # postman-training
+12-Dec
+-------
+
+{
+    
+    "username": "emilys",
+    "password": "emilyspass",
+    "expiresInMins": 10 // optional, defaults to 60
+  }
 9-Jan
 ------
 const colors = ["red", "yellow", "blue"];
